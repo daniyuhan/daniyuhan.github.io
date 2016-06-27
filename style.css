@@ -1,1 +1,22 @@
+*{
+  background-color: lavenderpink;
+  font-family:Helvetica;
+}
+p{
+  color: darkgrey;
+  font-size: 32px;
+}
 
+img{
+  height: auto;
+  width: auto;
+}
+
+iframe{
+  width: auto;
+  height: auto;
+}
+
+a{
+  hover: underline;
+}
